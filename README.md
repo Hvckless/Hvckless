@@ -11,7 +11,9 @@
 
 ## Skills
 **Main** - JavaScript, TypeScript / Node.JS
+
 **Available** - Python, Java, C++
+
 **Tool** - NumPy, FastText, Git, Docker, VENV, Windows Subsystem for Linux
 
 ## Contact
